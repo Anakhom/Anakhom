@@ -14,7 +14,7 @@
 
 <!-- - ⚡ Fun fact: I use tabs over spaces   -->
 
-- 🌱 I’m currently learning <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /> 
+- 🌱 I’m currently learning  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /> 
   
 
 <br/>  
