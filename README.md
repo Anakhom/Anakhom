@@ -1,10 +1,11 @@
-### <div align="center"> Hey there 👋, I'm Anastasia </div>
+### <h2 align="center">Hey There 👋, I'm Anastasia</h1>
 
-<div>
-- I’m currently learning <img style="margin-left: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-</div>
+<!-- <div> -->
+- I’m currently learning <img style="margin-left: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />
+- Ask me anything about MERN or PERN stack and related technologies
+<!-- </div> -->
 
----
+<!-- --- -->
 <!-- ### Контакты:
 
 [<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
@@ -15,6 +16,7 @@
 <br/>
 <br/>
  -->
+
 ---
 ### Languages and Tools:
 
