@@ -9,13 +9,12 @@
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
 
-- 🌱 I’m currently learning <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
+- 🌱 I’m currently learning <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /> 
   
 
 <br/>  
