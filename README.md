@@ -1,4 +1,4 @@
-### <h2 align="center">Hey There 👋, I'm Anastasia</h1>
+### <h2 align="left">Hey There 👋, I'm Anastasia</h1>
 
 <!-- <div> -->
 - I’m currently learning <img style="margin-left: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />
