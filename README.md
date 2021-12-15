@@ -1,6 +1,6 @@
-<!-- ### <h2 align="left">Hey There 👋, I'm Anastasia</h1>
- -->
-### <img src="header.png">
+### <h2 align="left">Hey There 👋, I'm Anastasia</h1>
+
+<!-- ### <img src="header.png"> -->
 
 <!-- <div> -->
 - I’m currently learning <img style="margin-left: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />
