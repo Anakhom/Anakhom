@@ -39,7 +39,7 @@
 <br/>
 
 [instagram]: https://www.instagram.com/anakhom
-[linkedind]: https://www.linkedin.com/in/anakhom
+[linkedin]: https://www.linkedin.com/in/anakhom
 [git]: https://github.com/anakhom
 
 
