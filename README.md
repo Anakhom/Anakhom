@@ -7,18 +7,6 @@
 - Ask me anything about MERN or PERN stack and related technologies
 <!-- </div> -->
 
-<!-- --- -->
-<!-- ### Контакты:
-
-[<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
-[<img align="left" alt="juljuliks | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
-[<img align="left" alt="juljuliks | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-
-<br/>
-<br/>
- -->
-
 ---
 ### Languages and Tools:
 
@@ -41,5 +29,17 @@
 ### GitHub Stats:
 [![Anastasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=anakhom&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anakhom)
 
+---
+### Contacts
+
+[<img align="left" alt="anakhom | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="anakhom | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+
+<br/>
+<br/>
+
 [instagram]: https://www.instagram.com/anakhom
+[linkedind]: https://www.linkedin.com/in/anakhom
 [git]: https://github.com/anakhom
+
+
