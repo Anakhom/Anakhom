@@ -5,6 +5,7 @@
 <!-- <div> -->
 - I’m currently learning <img style="margin-left: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />
 - Ask me anything about MERN or PERN stack and related technologies
+- You can reach me at anastasia.khomchenko@gmail.com
 <!-- </div> -->
 
 ---
