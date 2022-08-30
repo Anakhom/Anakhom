@@ -3,7 +3,7 @@
 <!-- ### <img src="header.png"> -->
 
 <!-- <div> -->
-- I’m currently learning <img style="margin-left: 30px" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue JS" height="25" />
+- I’m currently learning <img style="margin-left: 30px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Vue JS" height="25" />
 - Ask me anything about MERN or PERN stack and related technologies
 - You can reach me at anastasia.khomchenko@gmail.com
 <!-- </div> -->
