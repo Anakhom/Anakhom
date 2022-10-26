@@ -34,13 +34,13 @@
 ### Contacts
 
 [<img align="left" alt="anakhom | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
-[<img align="left" alt="anakhom | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="anakhom | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram] -->
 
 <br/>
 <br/>
 
 [instagram]: https://www.instagram.com/anakhom
 [linkedin]: https://www.linkedin.com/in/anakhom
-[git]: https://github.com/anakhom -->
+[git]: https://github.com/anakhom
 
 
