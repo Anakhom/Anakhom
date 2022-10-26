@@ -30,7 +30,7 @@
 ### GitHub Stats:
 [![Anastasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=anakhom&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anakhom)
 
----
+<!-- ---
 ### Contacts
 
 [<img align="left" alt="anakhom | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
@@ -41,6 +41,6 @@
 
 [instagram]: https://www.instagram.com/anakhom
 [linkedin]: https://www.linkedin.com/in/anakhom
-[git]: https://github.com/anakhom
+[git]: https://github.com/anakhom -->
 
 
