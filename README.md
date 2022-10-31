@@ -13,18 +13,18 @@
 
 <br/>
 
-[<img align="left" alt="JavaScript" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-green-tal-revivo.png" />][js]
-[<img align="left" alt="React" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-green-tal-revivo.png"/>][react]
-[<img align="left" alt="Redux"  width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-green-tal-revivo.png"/>][redux]
-[<img align="left" alt="Vue.js"  width="65px" img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png"/>][vue]
-[<img align="left" alt="Nuxt.js"  width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-green-tal-revivo.png"/>][nuxt]
-[<img align="left" alt="Node.js" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-green-tal-revivo.png" />][node]
-[<img align="left" alt="PostgreSQL" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-green-tal-revivo.png"/>][postgres]
-[<img align="left" alt="MongoDB" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png"/>][mongo]
-[<img align="left" alt="CSS3" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-css-wizardry-deliver-faster-and-more-reliable-experiences-to-their-customers-logo-green-tal-revivo.png" />][css]
-[<img align="left" alt="HTML5" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-green-tal-revivo.png" />][html]
-[<img align="left" alt="Redux" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-green-tal-revivo.png"/>][jest]
-[<img alt="npm" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-green-tal-revivo.png"/>][npm]
+[<img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-green-tal-revivo.png" />][js]
+[<img align="left" alt="React" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-green-tal-revivo.png"/>][react]
+[<img align="left" alt="Redux"  width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-green-tal-revivo.png"/>][redux]
+[<img align="left" alt="Vue.js"  width="50px" img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png"/>][vue]
+[<img align="left" alt="Nuxt.js"  width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-green-tal-revivo.png"/>][nuxt]
+[<img align="left" alt="Node.js" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-green-tal-revivo.png" />][node]
+[<img align="left" alt="PostgreSQL" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-green-tal-revivo.png"/>][postgres]
+[<img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png"/>][mongo]
+[<img align="left" alt="CSS3" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-css-wizardry-deliver-faster-and-more-reliable-experiences-to-their-customers-logo-green-tal-revivo.png" />][css]
+[<img align="left" alt="HTML5" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-green-tal-revivo.png" />][html]
+[<img align="left" alt="Redux" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-green-tal-revivo.png"/>][jest]
+[<img alt="npm" width="50px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-green-tal-revivo.png"/>][npm]
 <br />
 
 ---
