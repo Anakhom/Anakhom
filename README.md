@@ -24,7 +24,7 @@
 [<img align="left" alt="CSS3" width="55px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-css-wizardry-deliver-faster-and-more-reliable-experiences-to-their-customers-logo-green-tal-revivo.png" />][css]
 [<img align="left" alt="HTML5" width="55px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-green-tal-revivo.png" />][html]
 [<img align="left" alt="Redux" width="55px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-green-tal-revivo.png"/>][jest]
-[<img alt="npm" width="55px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-green-tal-revivo.png"/>][npm]
+
 <br />
 
 ---
@@ -37,6 +37,7 @@
 [<img align="left" alt="anakhom | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
 [<img align="left" alt="anakhom | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram] -->
 <!-- [<img align="left" alt="Sass" width="65px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-green-tal-revivo.png" />][sass] -->
+<!-- [<img alt="npm" width="55px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-green-tal-revivo.png"/>][npm] -->
 
 <!-- <br/>
 <br/>
