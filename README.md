@@ -16,6 +16,8 @@
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
 [<img align="left" alt="Redux"  width="40px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
+[<img align="left" alt="Redux"  width="40px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>][git]
+[<img align="left" alt="Redux"  width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>][git]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
 [<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
 [<img align="left" alt="PostgreSQL" width="40px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
@@ -42,5 +44,6 @@
 [instagram]: https://www.instagram.com/anakhom
 [linkedin]: https://www.linkedin.com/in/anakhom
 [git]: https://github.com/anakhom
+
 
 
