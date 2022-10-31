@@ -26,6 +26,7 @@
 [<img align="left" alt="Redux" width="55px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-green-tal-revivo.png"/>][jest]
 
 <br />
+<br />
 
 ---
 ### GitHub Stats:
