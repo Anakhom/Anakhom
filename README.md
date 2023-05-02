@@ -1,4 +1,4 @@
-### <h2 align="left">Hey There 👋, I'm Anastasia </h1>
+### <h2 align="left">Hey There 👋, I'm Anastasia  </h1>
 <!-- ![Intro Gif](src/introGif.gif) -->
 <!-- ### <img src="header.png"> -->
 
