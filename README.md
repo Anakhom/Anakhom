@@ -5,7 +5,7 @@
 <!-- - I’m currently learning [<img style="margin-left: 30px" alt="TypeScript" height="35" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png"/>][TS] -->
 - Ask me anything about MERN or PERN stacks and related technologies
 - You can reach me at anastasia.khomchenko@gmail.com
-<!-- </div> -->
+<!-- </div>-->
 
 ---
 ### Languages and Tools:
