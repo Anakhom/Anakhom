@@ -9,7 +9,6 @@
 
 ---
 ### Languages and Tools:
-
 <br/>
 
 [<img align="left" alt="JavaScript" width="55px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-green-tal-revivo.png" />][js]
